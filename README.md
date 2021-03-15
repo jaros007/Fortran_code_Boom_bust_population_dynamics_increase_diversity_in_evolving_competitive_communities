@@ -1,0 +1,2 @@
+# Fortran_code_Boom_bust_population_dynamics_increase_diversity_in_evolving_competitive_communities
+Fortran codes for discrete generation model of competing individual populations with boom-bust population dynamics.
